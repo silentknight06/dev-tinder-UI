@@ -1,4 +1,4 @@
-# Dev Tinder - Frontend
+# Dev Tinder - UI
 
 The frontend for Dev Tinder is a social networking platform specifically for developers. It provides a user-friendly interface for developers to create profiles, browse others, and connect.
 
@@ -25,20 +25,13 @@ The frontend for Dev Tinder is a social networking platform specifically for dev
 
 ## Installation
 
-1. **Clone the Repository:**
-
-   ```bash
-   git clone https://github.com/nachatra-sharma/dev-tinder-web.git
-   cd dev-tinder-web
-   ```
-
-2. **Install Dependencies:**
+1. **Install Dependencies:**
 
    ```bash
    npm install
    ```
 
-3. **Run the Development Server:**
+2. **Run the Development Server:**
    ```bash
    npm run dev
    ```
